@@ -1,4 +1,4 @@
-#Locadora de Veículos
+## Locadora de Veículos
 
 Repositório destinado à entrega da atividade prática da disciplina de **Modelagem de Padrões de Projeto**, ministrada pela professora **Cristiane Palomar**.
 
