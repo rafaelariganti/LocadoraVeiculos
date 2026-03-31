@@ -6,9 +6,9 @@ Repositório destinado à entrega da atividade prática da disciplina de **Model
 O objetivo deste trabalho foi desenvolver o back-end, o front-end e o diagrama de classes para um sistema de locadora de veículos, garantindo a aplicação de padrões de projeto. O sistema cria veículos de diferentes categorias, monta pacotes de locação completos e controla a frota disponível.
 
 Para resolver o contexto do problema, a arquitetura utilizou:
-***Abstract Factory:** Para montar os pacotes de locação completos, unindo o veículo escolhido, seguro e assistência 24h.
-***Factory Method:** Para instanciar as categorias específicas de veículos, que incluem Carros, Motos, Caminhões e Vans.
-***Singleton:** Aplicado na classe `ControleFrota` para manter o inventário global de veículos disponíveis.
+**Abstract Factory:** Para montar os pacotes de locação completos, unindo o veículo escolhido, seguro e assistência 24h.
+**Factory Method:** Para instanciar as categorias específicas de veículos, que incluem Carros, Motos, Caminhões e Vans.
+**Singleton:** Aplicado na classe `ControleFrota` para manter o inventário global de veículos disponíveis.
 
 ## O que foi entregue neste repositório:
 - **Diagrama de Classes:** Representação visual da arquitetura, detalhando as interfaces e as classes concretas dos padrões Singleton, Factory Method e Abstract Factory.
@@ -16,8 +16,8 @@ Para resolver o contexto do problema, a arquitetura utilizou:
 - **Front-end:** Interface do usuário para interação com o sistema, escolha da categoria do veículo e seleção do tipo de pacote (Econômico ou Premium).
 
 ## Tecnologias Utilizadas:
-- *JAVA*
-- *Draw.io*
+- JAVA
+- Draw.io
 
 ## Equipe e Responsabilidades:
 - **Maria Julia Loureiro:** Front-end.
