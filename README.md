@@ -20,6 +20,6 @@ Para resolver o contexto do problema, a arquitetura utilizou:
 - *Draw.io*
 
 ## Equipe e Responsabilidades:
+- **Maria Julia Loureiro:** Front-end.
 - **Rafaela Riganti:** Diagrama de Classes e Back-end.
 - **Sophia Araujo:** Integração dos padrões Singleton e Factory.
-- **Maria Julia Loureiro:** Front-end.
