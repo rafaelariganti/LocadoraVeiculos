@@ -1,0 +1,2 @@
+locadora.factory.VeiculoFactory
+locadora.factory.CarroFactory
